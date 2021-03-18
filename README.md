@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, My name is Dongheon Lee. You can call me Dongheon. I was born in Sejong. At the moment, I live in Deajeon. 
+My name is Dongheon Lee. You can call me Dongheon. I was born in Sejong. At the moment, I live in Deajeon. 
 I like sports like soccer. In the future, I want to study Machine Learing and Artificial Intelligence at image processing. 
 
 - 🔭 I’m currently studying Computer Science and Engineering at the CNU in Deajeon, Korea.

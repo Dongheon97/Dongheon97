@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is Dongheon Lee. You can call me Dongheon. I was born in Sejong. At the moment, I live in Deajeon. 
-I like sports like soccer. In the future, I want to study Machine Learing and Artificial Intelligence at image processing. 
+I am interested in image processing. In the future, I want to study Machine Learing and Artificial Intelligence at image processing. 
 
 - 🔭 I’m studying Computer Science and Engineering at the CNU in Deajeon, Korea.
-- 🌱 I’m currently learning Node.js, Ocaml, React, Docker, C++(C) and image processing. 
+- 🌱 I’m currently studying YoloV5, Node.js, Ocaml, React, Docker, C++(C) and image processing. 
 - 📫 How to reach me: dongheon.lee97@gmail.com
 
 <!--

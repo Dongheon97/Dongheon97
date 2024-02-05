@@ -1,12 +1,10 @@
-### Hi there 👋
 
-My name is Dongheon Lee. You can call me Dongheon. I was born in Sejong. At the moment, I live in Deajeon. 
-I am interested in image processing. In the future, I want to study Machine Learing and Artificial Intelligence at image processing. 
+## Experience
 
-- 🔭 I’m studying Computer Science and Engineering at the CNU in Deajeon, Korea.
-- 🌱 I’m currently studying YoloV5, Node.js, Ocaml, React, Docker, C++(C) and image processing. 
-- 📫 Contact: dongheon.lee97@gmail.com
+**2023 Google Machine Learning Bootcamp** <br/>
+Sep 2023 - Nov 2023
+- Studied machine learning course and participated Kaggle competition
 
-<!--
-**Dongheon97/Dongheon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**US Internship at Episys Science in San Diego**<br/>
+Sep 2022 - Aug 2023
+- Developed the drone software using ROS, Gazebo and VOXL

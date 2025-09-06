@@ -1,10 +1,11 @@
+# 👋 Hi there, I'm Dongheon Lee
 
-## Experience
+🎓 Master’s student in Electrical & Computer Engineering @ Purdue University  
+🤖 Interested in robotics, control systems, and autonomous drones  
+💻 Tech Stack: ROS2 | PX4 | C++ | Python | STM32 | LiDAR  
 
-**2023 Google Machine Learning Bootcamp** <br/>
-Sep 2023 - Nov 2023
-- Studied machine learning course and participated Kaggle competition
+🌱 Currently researching **Automatic Control** in robotics and autonomous systems  
+🚀 Exploring reinforcement learning and path-integral control for robotics  
 
-**US Internship at Episys Science in San Diego**<br/>
-Sep 2022 - Aug 2023
-- Developed the drone software using ROS, Gazebo and VOXL
+📫 How to reach me: [LinkedIn](https://linkedin.com/...) | [Blog](https://dongheon97.github.io)  
+⚡ Fun fact: I support Manchester United 🔴⚽

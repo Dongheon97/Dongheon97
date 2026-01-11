@@ -7,6 +7,6 @@
 🌱 Currently researching **Automatic Control** in robotics and autonomous systems  
 🚀 Exploring reinforcement learning and path-integral control for robotics  
 
-💼 Portfolio: [Portfolio](https://dongheon97.github.io/)
+💼 Portfolio: [Portfolio](https://dongheon97.github.io/) <br>
 📫 How to reach me: [LinkedIn](https://linkedin.com/...)    
 ⚡ Fun fact: I support Manchester United 🔴⚽
